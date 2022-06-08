@@ -14,3 +14,6 @@ Release 1 Ending
 Release 2 starting
 
 1. Sprint 7
+
+Release document - ptr and testcase report
+Release work completed
